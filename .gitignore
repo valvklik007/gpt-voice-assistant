@@ -2,5 +2,3 @@
 __pycache__
 .idea
 .env
-media/*
-!media/.gitkeep
